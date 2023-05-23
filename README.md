@@ -22,3 +22,14 @@ Repository for the PowerAutomate flows for Adobe Acrobat Sign.
 
   <li> Click on import </li>
 </ul>
+
+# Flows included
+<ul>
+  <li> Save Completed agreement, formfields to SharePoint List and send email </li>
+  <li> Save Completed agreements to One Drive for business </li>
+  <li> Save completed agreement to SharePoint folder </li>
+  <li> Save rejected agreements to SharePoint </li>
+    <li>Trigger the send for signature on MS form Submission </li>
+  <li> Email specific Adobe Sign completed agreement </li>
+  <li> Get signatures on a new file in SharePoint and Send Mobile Notification </li>
+  </ul>
