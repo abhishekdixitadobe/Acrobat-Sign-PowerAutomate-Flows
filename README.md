@@ -32,4 +32,5 @@ Repository for the PowerAutomate flows for Adobe Acrobat Sign.
     <li>Trigger the send for signature on MS form Submission </li>
   <li> Email specific Adobe Sign completed agreement </li>
   <li> Get signatures on a new file in SharePoint and Send Mobile Notification </li>
+  <li> Update agreement status for Canceled event.</li>
   </ul>
